@@ -46,7 +46,7 @@ fastapi-chat-app/
 
 ### 1. Clone the github repository
 ```bash
-git clone https://github.com/your-username/fastapi-chat-app.git
+git clone https://github.com/bhari-gilead/fastapi-chat-app.git
 cd fastapi-chat-app
 ```
 
